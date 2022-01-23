@@ -1,6 +1,6 @@
 # 알고리즘 문제 풀이 모음
 
-### [백준](https://solved.ac/) 🤪
+### 🤪 [백준](https://solved.ac/)
 
 |문제|풀이|해결|
 |:---:|:---:|:---:|
@@ -26,3 +26,30 @@
 |[Plane](https://www.acmicpc.net/problem/8370)|[코드](Baekjoon/8370.js)|✔|
 |[합](https://www.acmicpc.net/problem/8393)|[코드](Baekjoon/8393.js)|✔|
 |[Julka](https://www.acmicpc.net/problem/8437)|[코드](Baekjoon/8437.js)|✔|
+|[스타워즈 로고](https://www.acmicpc.net/problem/9653)|[코드](Baekjoon/9653.js)|✔|
+|[나부 함대 데이터](https://www.acmicpc.net/problem/9654)|[코드](Baekjoon/9654.js)|✔|
+|[NFC West vs North](https://www.acmicpc.net/problem/10170)|[코드](Baekjoon/10170.js)|✔|
+|[고양이](https://www.acmicpc.net/problem/10171)|[코드](Baekjoon/10171.js)|✔|
+|[강아지](https://www.acmicpc.net/problem/10172)|[코드](Baekjoon/10172.js)|✔|
+|[나머지](https://www.acmicpc.net/problem/10430)|[코드](Baekjoon/10430.js)|✔|
+|[오늘 날짜](https://www.acmicpc.net/problem/10699)|[코드](Baekjoon/10699.js)|✔|
+|[We love kriii](https://www.acmicpc.net/problem/10718)|[코드](Baekjoon/10718.js)|✔|
+|[큰 수 A+B](https://www.acmicpc.net/problem/10757)|[코드](Baekjoon/10757.js)|✔|
+|[사칙연산](https://www.acmicpc.net/problem/10869)|[코드](Baekjoon/10869.js)|✔|
+|[??!](https://www.acmicpc.net/problem/10926)|[코드](Baekjoon/10926.js)|✔|
+|[A×B](https://www.acmicpc.net/problem/10998)|[코드](Baekjoon/10998.js)|✔|
+|[한글 2](https://www.acmicpc.net/problem/11283)|[코드](Baekjoon/11283.js)|🔺|
+|[꼬마 정민](https://www.acmicpc.net/problem/11382)|[코드](Baekjoon/11382.js)|✔|
+|[아스키 코드](https://www.acmicpc.net/problem/11654)|[코드](Baekjoon/11654.js)|✔|
+|[고려대는 사랑입니다.](https://www.acmicpc.net/problem/11942)|[코드](Baekjoon/11942.js)|✔|
+|[큰 수 곱셈](https://www.acmicpc.net/problem/13277)|[코드](Baekjoon/13277.js)|✔|
+|[와이버스 부릉부릉](https://www.acmicpc.net/problem/14645)|[코드](Baekjoon/14645.js)|✔|
+|[나는 행복합니다~](https://www.acmicpc.net/problem/14652)|[코드](Baekjoon/14652.js)|✔|
+|[큰 수 (BIG)](https://www.acmicpc.net/problem/14928)|[코드](Baekjoon/14928.js)|✔|
+|[Vera and Outfits](https://www.acmicpc.net/problem/15439)|[코드](Baekjoon/15439.js)|✔|
+|[조별과제를 하려는데 조장이 사라졌다](https://www.acmicpc.net/problem/15727)|[코드](Baekjoon/15727.js)|✔|
+|[나는 누구인가](https://www.acmicpc.net/problem/15733)|[코드](Baekjoon/15733.js)|✔|
+|[A+B - 9](https://www.acmicpc.net/problem/15740)|[코드](Baekjoon/15740.js)|✔|
+|[수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894)|[코드](Baekjoon/15894.js)|✔|
+|[새로운 시작](https://www.acmicpc.net/problem/15962)|[코드](Baekjoon/15962.js)|✔|
+|[이상한 기호](https://www.acmicpc.net/problem/15964)|[코드](Baekjoon/15964.js)|✔|
