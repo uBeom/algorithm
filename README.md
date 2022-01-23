@@ -17,3 +17,12 @@
 |[킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003)|[코드](Baekjoon/3003.js)|✔|
 |[R2](https://www.acmicpc.net/problem/3046)|[코드](Baekjoon/3046.js)|✔|
 |[웰컴](https://www.acmicpc.net/problem/5337)|[코드](Baekjoon/5337.js)|✔|
+|[마이크로소프트 로고](https://www.acmicpc.net/problem/5338)|[코드](Baekjoon/5338.js)|✔|
+|[콜센터](https://www.acmicpc.net/problem/5339)|[코드](Baekjoon/5339.js)|✔|
+|[카드게임](https://www.acmicpc.net/problem/5522)|[코드](Baekjoon/5522.js)|✔|
+|[심부름 가는 길](https://www.acmicpc.net/problem/5554)|[코드](Baekjoon/5554.js)|✔|
+|[Next in line](https://www.acmicpc.net/problem/6749)|[코드](Baekjoon/6749.js)|✔|
+|[등록](https://www.acmicpc.net/problem/7287)|[코드](Baekjoon/7287.js)|✔|
+|[Plane](https://www.acmicpc.net/problem/8370)|[코드](Baekjoon/8370.js)|✔|
+|[합](https://www.acmicpc.net/problem/8393)|[코드](Baekjoon/8393.js)|✔|
+|[Julka](https://www.acmicpc.net/problem/8437)|[코드](Baekjoon/8437.js)|✔|
