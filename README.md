@@ -75,3 +75,5 @@
 |[Double Crypt 1](https://www.acmicpc.net/problem/24218)|[코드](Baekjoon/24218.js)|Jan 23, 2022|❌|
 |[알고리즘 수업 - 알고리즘의 수행 시간 1](https://www.acmicpc.net/problem/24262)|[코드](Baekjoon/24262.js)|Jan 23, 2022|❌|
 |[РАВЕНСТВО](https://www.acmicpc.net/problem/24309)|[코드](Baekjoon/24309.js)|Jan 23, 2022|✔|
+|[A/B](https://www.acmicpc.net/problem/1008)|[코드](Baekjoon/1008.js)|Jan 24, 2022|✔|
+|[TV 크기](https://www.acmicpc.net/problem/1297)|[코드](Baekjoon/1297.js)|Jan 24, 2022|✔|
