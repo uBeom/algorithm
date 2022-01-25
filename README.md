@@ -40,7 +40,7 @@
 |[사칙연산](https://www.acmicpc.net/problem/10869)|[코드](Baekjoon/10869.js)|Jan 23, 2022|✔|
 |[??!](https://www.acmicpc.net/problem/10926)|[코드](Baekjoon/10926.js)|Jan 23, 2022|✔|
 |[A×B](https://www.acmicpc.net/problem/10998)|[코드](Baekjoon/10998.js)|Jan 23, 2022|✔|
-|[한글 2](https://www.acmicpc.net/problem/11283)|[코드](Baekjoon/11283.js)|Jan 23, 2022|🔺|
+|[한글 2](https://www.acmicpc.net/problem/11283)|[코드](Baekjoon/11283.js)|Jan 23, 2022|❌|
 |[꼬마 정민](https://www.acmicpc.net/problem/11382)|[코드](Baekjoon/11382.js)|Jan 23, 2022|✔|
 |[아스키 코드](https://www.acmicpc.net/problem/11654)|[코드](Baekjoon/11654.js)|Jan 23, 2022|✔|
 |[고려대는 사랑입니다.](https://www.acmicpc.net/problem/11942)|[코드](Baekjoon/11942.js)|Jan 23, 2022|✔|
@@ -86,3 +86,5 @@
 |[곱셈](https://www.acmicpc.net/problem/2588)|[코드](Baekjoon/2588.js)|Jan 25, 2022|✔|
 |[세수정렬](https://www.acmicpc.net/problem/2752)|[코드](Baekjoon/2752.js)|Jan 25, 2022|✔|
 |[체스판 조각](https://www.acmicpc.net/problem/3004)|[코드](Baekjoon/3004.js)|Jan 25, 2022|❌|
+|[AFC 윔블던](https://www.acmicpc.net/problem/4299)|[코드](Baekjoon/4299.js)|Jan 25, 2022|✔|
+|[방학 숙제](https://www.acmicpc.net/problem/5532)|[코드](Baekjoon/5532.js)|Jan 25, 2022|✔|
