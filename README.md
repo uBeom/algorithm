@@ -77,3 +77,12 @@
 |[РАВЕНСТВО](https://www.acmicpc.net/problem/24309)|[코드](Baekjoon/24309.js)|Jan 23, 2022|✔|
 |[A/B](https://www.acmicpc.net/problem/1008)|[코드](Baekjoon/1008.js)|Jan 24, 2022|✔|
 |[TV 크기](https://www.acmicpc.net/problem/1297)|[코드](Baekjoon/1297.js)|Jan 24, 2022|✔|
+|[두 수 비교하기](https://www.acmicpc.net/problem/1330)|[코드](Baekjoon/1330.js)|Jan 25, 2022|✔|
+|[손익분기점](https://www.acmicpc.net/problem/1712)|[코드](Baekjoon/1712.js)|Jan 25, 2022|❌|
+|[사파리월드](https://www.acmicpc.net/problem/2420)|[코드](Baekjoon/2420.js)|Jan 25, 2022|✔|
+|[주사위 세개](https://www.acmicpc.net/problem/2480)|[코드](Baekjoon/2480.js)|Jan 25, 2022|✔|
+|[오븐 시계](https://www.acmicpc.net/problem/2525)|[코드](Baekjoon/2525.js)|Jan 25, 2022|✔|
+|[인공지능 시계](https://www.acmicpc.net/problem/2530)|[코드](Baekjoon/2530.js)|Jan 25, 2022|✔|
+|[곱셈](https://www.acmicpc.net/problem/2588)|[코드](Baekjoon/2588.js)|Jan 25, 2022|✔|
+|[세수정렬](https://www.acmicpc.net/problem/2752)|[코드](Baekjoon/2752.js)|Jan 25, 2022|✔|
+|[체스판 조각](https://www.acmicpc.net/problem/3004)|[코드](Baekjoon/3004.js)|Jan 25, 2022|❌|
