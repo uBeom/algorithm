@@ -88,3 +88,11 @@
 |[체스판 조각](https://www.acmicpc.net/problem/3004)|[코드](Baekjoon/3004.js)|Jan 25, 2022|❌|
 |[AFC 윔블던](https://www.acmicpc.net/problem/4299)|[코드](Baekjoon/4299.js)|Jan 25, 2022|✔|
 |[방학 숙제](https://www.acmicpc.net/problem/5532)|[코드](Baekjoon/5532.js)|Jan 25, 2022|✔|
+|[상근날드](https://www.acmicpc.net/problem/5543)|[코드](Baekjoon/5543.js)|Jan 26, 2022|✔|
+|[타임 카드](https://www.acmicpc.net/problem/5575)|[코드](Baekjoon/5575.js)|Jan 26, 2022|✔|
+|[시험 점수](https://www.acmicpc.net/problem/5596)|[코드](Baekjoon/5596.js)|Jan 26, 2022|✔|
+|[17배](https://www.acmicpc.net/problem/5893)|[코드](Baekjoon/5893.js)|Jan 26, 2022|❌|
+|[Contest Timing](https://www.acmicpc.net/problem/5928)|[코드](Baekjoon/5928.js)|Jan 26, 2022|✔|
+|[Speed fines are not fine!](https://www.acmicpc.net/problem/6763)|[코드](Baekjoon/6763.js)|Jan 26, 2022|✔|
+|[Which Alien?](https://www.acmicpc.net/problem/6778)|[코드](Baekjoon/6778.js)|Jan 26, 2022|✔|
+|[ISBN](https://www.acmicpc.net/problem/6810)|[코드](Baekjoon/6810.js)|Jan 26, 2022|✔|
