@@ -96,3 +96,8 @@
 |[Speed fines are not fine!](https://www.acmicpc.net/problem/6763)|[코드](Baekjoon/6763.js)|Jan 26, 2022|✔|
 |[Which Alien?](https://www.acmicpc.net/problem/6778)|[코드](Baekjoon/6778.js)|Jan 26, 2022|✔|
 |[ISBN](https://www.acmicpc.net/problem/6810)|[코드](Baekjoon/6810.js)|Jan 26, 2022|✔|
+|[시험 성적](https://www.acmicpc.net/problem/9498)|[코드](Baekjoon/9498.js)|Jan 26, 2022|✔|
+|[평균 점수](https://www.acmicpc.net/problem/10039)|[코드](Baekjoon/10039.js)|Jan 26, 2022|✔|
+|[삼각형 외우기](https://www.acmicpc.net/problem/10101)|[코드](Baekjoon/10101.js)|Jan 26, 2022|✔|
+|[과자](https://www.acmicpc.net/problem/10156)|[코드](Baekjoon/10156.js)|Jan 26, 2022|✔|
+|[전자레인지](https://www.acmicpc.net/problem/10162)|[코드](Baekjoon/10156.js)|Jan 26, 2022|✔|
