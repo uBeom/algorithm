@@ -100,4 +100,8 @@
 |[평균 점수](https://www.acmicpc.net/problem/10039)|[코드](Baekjoon/10039.js)|Jan 26, 2022|✔|
 |[삼각형 외우기](https://www.acmicpc.net/problem/10101)|[코드](Baekjoon/10101.js)|Jan 26, 2022|✔|
 |[과자](https://www.acmicpc.net/problem/10156)|[코드](Baekjoon/10156.js)|Jan 26, 2022|✔|
-|[전자레인지](https://www.acmicpc.net/problem/10162)|[코드](Baekjoon/10156.js)|Jan 26, 2022|✔|
+|[전자레인지](https://www.acmicpc.net/problem/10162)|[코드](Baekjoon/10162.js)|Jan 27, 2022|✔|
+|[쿠폰](https://www.acmicpc.net/problem/10179)|[코드](Baekjoon/10179.js)|Jan 27, 2022|✔|
+|[수도요금](https://www.acmicpc.net/problem/10707)|[코드](Baekjoon/10707.js)|Jan 27, 2022|✔|
+|[특별한날](https://www.acmicpc.net/problem/10768)|[코드](Baekjoon/10768.js)|Jan 27, 2022|✔|
+|[10부제](https://www.acmicpc.net/problem/10797)|[코드](Baekjoon/10797.js)|Jan 27, 2022|✔|

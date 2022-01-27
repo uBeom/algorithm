@@ -1,31 +1,26 @@
 // 전자레인지
 
 const fs = require('fs');
-const input = parseInt(fs.readFileSync('../main.txt').toString());
+const input = parseInt(fs.readFileSync('/dev/stdin').toString());
 
 const timeA = 300;
 const timeB = 60;
 const timeC = 10;
 
-let a = Math.floor(input / timeA);
-let b, c;
-let remainA, remainB, remaiC;
+const aRemain = input % timeA;
+const aDiv = Math.floor(input / timeA);
 
-if(input % timeA === 0) return console.log(a);
+if(aRemain === 0) console.log(aDiv, 0, 0);
 else {
-  remainA = input % timeA;
-  if(remainA % timeB === 0) return console.log(math.floor())
-}
-a = Math.floor(input / timeA);
-remainA = input % timeA;
-if(remainA !== 0) {
-  b = Math.floor(remainA / timeB);
-  remainB = remainA % timeB;
-  if(remainC !== 0) {
-    c = Math.floor(remainB / timeC);
-    remainC = remainB % c;
+  const bRemain = aRemain % timeB;
+  const bDiv = Math.floor(aRemain / timeB);
+
+  if(bRemain === 0) console.log(aDiv, bDiv, 0);
+  else {
+    const cRemain = bRemain % timeC;
+    const cDiv = Math.floor(bRemain / timeC);
+
+    if(cRemain === 0) console.log(aDiv, bDiv, cDiv);
+    else console.log(-1);
   }
 }
-
-if(remainC !== 0) console.log(-1);
-else console.log(a, b, c);
