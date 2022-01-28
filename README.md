@@ -105,3 +105,8 @@
 |[수도요금](https://www.acmicpc.net/problem/10707)|[코드](Baekjoon/10707.js)|Jan 27, 2022|✔|
 |[특별한날](https://www.acmicpc.net/problem/10768)|[코드](Baekjoon/10768.js)|Jan 27, 2022|✔|
 |[10부제](https://www.acmicpc.net/problem/10797)|[코드](Baekjoon/10797.js)|Jan 27, 2022|✔|
+|[한글](https://www.acmicpc.net/problem/11282)|[코드](Baekjoon/11282.js)|Jan 28, 2022|✔|
+|[Identifying tea](https://www.acmicpc.net/problem/11549)|[코드](Baekjoon/11549.js)|Jan 28, 2022|✔|
+|[파일 옮기기](https://www.acmicpc.net/problem/11943)|[코드](Baekjoon/11943.js)|Jan 28, 2022|✔|
+|[과목선택](https://www.acmicpc.net/problem/11948)|[코드](Baekjoon/11948.js)|Jan 28, 2022|✔|
+|[Do Not Touch Anything](https://www.acmicpc.net/problem/13136)|[코드](Baekjoon/13136.js)|Jan 28, 2022|✔|
