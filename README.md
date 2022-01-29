@@ -110,3 +110,8 @@
 |[파일 옮기기](https://www.acmicpc.net/problem/11943)|[코드](Baekjoon/11943.js)|Jan 28, 2022|✔|
 |[과목선택](https://www.acmicpc.net/problem/11948)|[코드](Baekjoon/11948.js)|Jan 28, 2022|✔|
 |[Do Not Touch Anything](https://www.acmicpc.net/problem/13136)|[코드](Baekjoon/13136.js)|Jan 28, 2022|✔|
+|[Andando no tempo](https://www.acmicpc.net/problem/13580)|[코드](Baekjoon/13580.js)|Jan 29, 2022|✔|
+|[Tri-du](https://www.acmicpc.net/problem/13597)|[코드](Baekjoon/13597.js)|Jan 29, 2022|✔|
+|[팀 나누기](https://www.acmicpc.net/problem/13866)|[코드](Baekjoon/13866.js)|Jan 29, 2022|✔|
+|[Equality](https://www.acmicpc.net/problem/13985)|[코드](Baekjoon/13985.js)|Jan 29, 2022|✔|
+|[Tournament Selection](https://www.acmicpc.net/problem/14038)|[코드](Baekjoon/14038.js)|Jan 29, 2022|✔|
