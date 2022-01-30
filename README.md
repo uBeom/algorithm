@@ -115,3 +115,5 @@
 |[팀 나누기](https://www.acmicpc.net/problem/13866)|[코드](Baekjoon/13866.js)|Jan 29, 2022|✔|
 |[Equality](https://www.acmicpc.net/problem/13985)|[코드](Baekjoon/13985.js)|Jan 29, 2022|✔|
 |[Tournament Selection](https://www.acmicpc.net/problem/14038)|[코드](Baekjoon/14038.js)|Jan 29, 2022|✔|
+|[전자레인지](https://www.acmicpc.net/problem/14470)|[코드](Baekjoon/14470.js)|Jan 30, 2022|✔|
+|[감정이입](https://www.acmicpc.net/problem/14623)|[코드](Baekjoon/14623.js)|Jan 30, 2022|❌|
