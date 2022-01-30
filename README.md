@@ -117,3 +117,6 @@
 |[Tournament Selection](https://www.acmicpc.net/problem/14038)|[코드](Baekjoon/14038.js)|Jan 29, 2022|✔|
 |[전자레인지](https://www.acmicpc.net/problem/14470)|[코드](Baekjoon/14470.js)|Jan 30, 2022|✔|
 |[감정이입](https://www.acmicpc.net/problem/14623)|[코드](Baekjoon/14623.js)|Jan 30, 2022|❌|
+|[사분면 고르기](https://www.acmicpc.net/problem/14681)|[코드](Baekjoon/14681.js)|Jan 30, 2022|❌|
+|[폰 노이만과 파리](https://www.acmicpc.net/problem/14924)|[코드](Baekjoon/14924.js)|Jan 30, 2022|✔|
+|[FA](https://www.acmicpc.net/problem/14935)|[코드](Baekjoon/14935.js)|Jan 30, 2022|✔|
