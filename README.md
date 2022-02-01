@@ -120,3 +120,9 @@
 |[사분면 고르기](https://www.acmicpc.net/problem/14681)|[코드](Baekjoon/14681.js)|Jan 30, 2022|❌|
 |[폰 노이만과 파리](https://www.acmicpc.net/problem/14924)|[코드](Baekjoon/14924.js)|Jan 30, 2022|✔|
 |[FA](https://www.acmicpc.net/problem/14935)|[코드](Baekjoon/14935.js)|Jan 30, 2022|✔|
+|[Máquina de café](https://www.acmicpc.net/problem/15051)|[코드](Baekjoon/15051.js)|Feb 1, 2022|❌|
+|[Hard choice](https://www.acmicpc.net/problem/15059)|[코드](Baekjoon/15059.js)|Feb 1, 2022|✔|
+|[Every Second Counts](https://www.acmicpc.net/problem/15080)|[코드](Baekjoon/15080.js)|Feb 1, 2022|❌|
+|[鉛筆 (Pencils)](https://www.acmicpc.net/problem/15474)|[코드](Baekjoon/15474.js)|Feb 1, 2022|✔|
+|[연세대학교](https://www.acmicpc.net/problem/15680)|[코드](Baekjoon/15680.js)|Feb 1, 2022|✔|
+|[타일 채우기 4](https://www.acmicpc.net/problem/15700)|[코드](Baekjoon/15700.js)|Feb 1, 2022|✔|
