@@ -126,3 +126,7 @@
 |[鉛筆 (Pencils)](https://www.acmicpc.net/problem/15474)|[코드](Baekjoon/15474.js)|Feb 1, 2022|✔|
 |[연세대학교](https://www.acmicpc.net/problem/15680)|[코드](Baekjoon/15680.js)|Feb 1, 2022|✔|
 |[타일 채우기 4](https://www.acmicpc.net/problem/15700)|[코드](Baekjoon/15700.js)|Feb 1, 2022|✔|
+|[이칙연산](https://www.acmicpc.net/problem/15726)|[코드](Baekjoon/15726.js)|Feb 2, 2022|✔|
+|[공백 없는 A+B](https://www.acmicpc.net/problem/15873)|[코드](Baekjoon/15873.js)|Feb 2, 2022|✔|
+|[수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532)|[코드](Baekjoon/19532.js)|Mar 3, 2022|❌|
+|[숫자 게임](https://www.acmicpc.net/problem/2303)|[코드](Baekjoon/2303.js)|Mar 3, 2022|✔|
