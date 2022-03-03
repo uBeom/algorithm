@@ -7,7 +7,6 @@ const N = input[0];
 const peoples = [];
 const maxs = [];
 
-// 데이터 파싱
 let num = 1;
 for(let i=0; i<N; i++) {
   peoples.push(input.slice(num, num + 5))
