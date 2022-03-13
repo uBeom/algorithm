@@ -137,4 +137,18 @@
 |:---:|:---:|:---:|:---:|
 |[자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)|[코드](Programmers/0001.js)|Mar 12, 2022|✔|
 |[올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)|[코드](Programmers/0002.js)|Mar 12, 2022|✔|
-|[프린터](https://programmers.co.kr/learn/courses/13213/lessons/91078)|[코드](Programmers/0003.js)|Mar 13, 2022|✔|
+|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|[코드](Programmers/0003.js)|Mar 13, 2022|✔|
+|[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)|[코드](Programmers/0004.js)|Mar 13, 2022|✔|
+|[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)|[코드](Programmers/0005.js)|Mar 13, 2022|✔|
+|[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)|[코드](Programmers/0006.js)|Mar 13, 2022|✔|
+|[행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)|[코드](Programmers/0007.js)|Mar 13, 2022|✔|
+|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)|[코드](Programmers/0008.js)|Mar 13, 2022|✔|
+|[문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)|[코드](Programmers/0009.js)|Mar 13, 2022|❌|
+|[문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)|[코드](Programmers/0010.js)|Mar 13, 2022|✔|
+|[문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)|[코드](Programmers/0011.js)|Mar 13, 2022|✔|
+|[문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)|[코드](Programmers/0012.js)|Mar 13, 2022|✔|
+|[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)|[코드](Programmers/0013.js)|Mar 13, 2022|✔|
+|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)|[코드](Programmers/0014.js)|Mar 13, 2022|✔|
+|[수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)|[코드](Programmers/0015.js)|Mar 13, 2022|✔|
+|[문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)|[코드](Programmers/0016.js)|Mar 13, 2022|✔|
+|[시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)|[코드](Programmers/0017.js)|Mar 13, 2022|✔|
