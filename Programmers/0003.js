@@ -25,29 +25,29 @@ class Queue {
     return this.rear - this.front;
   }
 
-  getImportance(value) {
+  isImportance(value) {
     return this.queue.some(e=>value<e);
   }
 }
 
 function solution(priorities, location) {
-  let sequence = 0;
+  let sequence = location;
+  let cnt = 0;
   const queue = new Queue();
-  priorities.forEach(e=>{
-    queue.enqueue(e);
-  });
+
+  priorities.forEach(e=>queue.enqueue(e));
 
   while(queue.size()) {
     const docs = queue.dequeue();
     
-    if(queue.getImportance(docs)) queue.enqueue(docs);
+    if(queue.isImportance(docs)) queue.enqueue(docs);
     else {
-      sequence++;
-      if(location === 0) return sequence;
+      cnt++;
+      if(sequence === 0) return cnt;
     }
     
-    if(location === 0) location = queue.size()-1;
-    else location--;
+    if(sequence === 0) sequence = queue.size()-1;
+    else sequence--;
   }
 }
 
