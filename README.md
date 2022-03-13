@@ -136,3 +136,5 @@
 |문제|풀이|날짜|해결|
 |:---:|:---:|:---:|:---:|
 |[자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)|[코드](Programmers/0001.js)|Mar 12, 2022|✔|
+|[올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)|[코드](Programmers/0002.js)|Mar 12, 2022|✔|
+|[프린터](https://programmers.co.kr/learn/courses/13213/lessons/91078)|[코드](Programmers/0003.js)|Mar 13, 2022|✔|
