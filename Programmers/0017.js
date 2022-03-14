@@ -1,20 +1,6 @@
-// 시저 암호
-function solution(s, n) {
-  let answer = '';
-  const str = [...s.split('')];
-
-  str.map(e=>{
-    if(e < 'a') {
-      if(e.charCodeAt(0)+n > 'z'.charCodeAt(0)) answer += String.fromCharCode(e.charCodeAt(0)+n);
-      else answer += String.fromCharCode(e.charCodeAt(0)+n);
-    }
-    else if (e === ' ') answer += ' ';
-    else {
-
-    }
-  });
-
-  return answer;
+// 자연수 뒤집어 배열로 만들기
+function solution(n) {
+  return [...n.toString()].reverse().map(e=>parseInt(e));
 }
 
-console.log(solution("AB", 1));
+console.log(solution(12345));
