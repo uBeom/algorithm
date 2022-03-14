@@ -151,4 +151,7 @@
 |[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)|[코드](Programmers/0014.js)|Mar 13, 2022|✔|
 |[수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)|[코드](Programmers/0015.js)|Mar 13, 2022|✔|
 |[문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)|[코드](Programmers/0016.js)|Mar 13, 2022|✔|
-|[시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)|[코드](Programmers/0017.js)|Mar 13, 2022|✔|
+|[자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)|[코드](Programmers/0017.js)|Mar 14, 2022|✔|
+|[정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)|[코드](Programmers/0018.js)|Mar 14, 2022|✔|
+|[정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)|[코드](Programmers/0019.js)|Mar 14, 2022|✔|
+|[제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)|[코드](Programmers/0020.js)|Mar 14, 2022|✔|
