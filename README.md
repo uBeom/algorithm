@@ -155,3 +155,9 @@
 |[정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)|[코드](Programmers/0018.js)|Mar 14, 2022|✔|
 |[정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)|[코드](Programmers/0019.js)|Mar 14, 2022|✔|
 |[제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)|[코드](Programmers/0020.js)|Mar 14, 2022|✔|
+|[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)|[코드](Programmers/0021.js)|Mar 15, 2022|✔|
+|[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)|[코드](Programmers/0022.js)|Mar 15, 2022|✔|
+|[평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)|[코드](Programmers/0023.js)|Mar 15, 2022|✔|
+|[약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)|[코드](Programmers/0024.js)|Mar 15, 2022|✔|
+|[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)|[코드](Programmers/0025.js)|Mar 15, 2022|✔|
+|[나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)|[코드](Programmers/0026.js)|Mar 15, 2022|✔|
