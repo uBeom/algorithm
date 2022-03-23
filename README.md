@@ -161,3 +161,9 @@
 |[약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)|[코드](Programmers/0024.js)|Mar 15, 2022|✔|
 |[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)|[코드](Programmers/0025.js)|Mar 15, 2022|✔|
 |[나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)|[코드](Programmers/0026.js)|Mar 15, 2022|✔|
+|[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)|[코드](Programmers/0027.js)|Mar 16, 2022|✔|
+|[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)|[코드](Programmers/0028.js)|Mar 16, 2022|✔|
+|[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)|[코드](Programmers/0029.js)|Mar 16, 2022|✔|
+|[다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|[코드](Programmers/0030.js)|Mar 16, 2022|❌|
+|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[코드](Programmers/0031.js)|Mar 22, 2022|✔|
+|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|[코드](Programmers/0032.js)|Mar 23, 2022|✔|

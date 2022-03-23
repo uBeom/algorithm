@@ -26,7 +26,7 @@ function solution(dartResult) {
     }
   });
 
-  arr.forEach()
+ return arr;
 }
 
 console.log(solution('1S*2T*3S'));
