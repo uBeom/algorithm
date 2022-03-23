@@ -167,3 +167,4 @@
 |[다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|[코드](Programmers/0030.js)|Mar 16, 2022|❌|
 |[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[코드](Programmers/0031.js)|Mar 22, 2022|✔|
 |[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|[코드](Programmers/0032.js)|Mar 23, 2022|✔|
+|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[코드](Programmers/0032.js)|Mar 23, 2022|✔|
