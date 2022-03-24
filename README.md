@@ -167,4 +167,18 @@
 |[다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|[코드](Programmers/0030.js)|Mar 16, 2022|❌|
 |[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[코드](Programmers/0031.js)|Mar 22, 2022|✔|
 |[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|[코드](Programmers/0032.js)|Mar 23, 2022|✔|
-|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[코드](Programmers/0032.js)|Mar 23, 2022|✔|
+|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[코드](Programmers/0033.js)|Mar 23, 2022|✔|
+|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|[코드](Programmers/0034.js)|Mar 24, 2022|✔|
+|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[코드](Programmers/0035.js)|Mar 24, 2022|✔|
+|[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|[코드](Programmers/0036.js)|Mar 24, 2022|✔|
+|[시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)|[코드](Programmers/0037.js)|Mar 24, 2022|✔|
+|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[코드](Programmers/0038.js)|Mar 24, 2022|✔|
+|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/1845)|[코드](Programmers/0039.js)|Mar 24, 2022|✔|
+|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|[코드](Programmers/0040.js)|Mar 24, 2022|✔|
+|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)|[코드](Programmers/0041.js)|Mar 24, 2022|✔|
+|[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)|[코드](Programmers/0042.js)|Mar 24, 2022|✔|
+|[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)|[코드](Programmers/0043.js)|Mar 24, 2022|✔|
+|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|[코드](Programmers/0044.js)|Mar 24, 2022|✔|
+|[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|[코드](Programmers/0045.js)|Mar 24, 2022|✔|
+|[신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)|[코드](Programmers/0046.js)|Mar 24, 2022|❌|
+|[비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|[코드](Programmers/0047.js)|Mar 24, 2022|✔|
