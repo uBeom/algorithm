@@ -182,3 +182,6 @@
 |[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|[코드](Programmers/0045.js)|Mar 24, 2022|✔|
 |[신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)|[코드](Programmers/0046.js)|Mar 24, 2022|❌|
 |[비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|[코드](Programmers/0047.js)|Mar 24, 2022|✔|
+|[[카카오 인턴] 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|[코드](Programmers/0048.js)|Mar 24, 2022|❌|
+|[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[코드](Programmers/0049.js)|Mar 25, 2022|✔|
+|[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)|[코드](Programmers/0050.js)|Mar 25, 2022|❌|
