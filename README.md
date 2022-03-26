@@ -164,7 +164,7 @@
 |[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)|[코드](Programmers/0027.js)|Mar 16, 2022|✔|
 |[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)|[코드](Programmers/0028.js)|Mar 16, 2022|✔|
 |[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)|[코드](Programmers/0029.js)|Mar 16, 2022|✔|
-|[다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|[코드](Programmers/0030.js)|Mar 16, 2022|❌|
+|[다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|[코드](Programmers/0030.js)|Mar 16, 2022|✔|
 |[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[코드](Programmers/0031.js)|Mar 22, 2022|✔|
 |[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|[코드](Programmers/0032.js)|Mar 23, 2022|✔|
 |[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[코드](Programmers/0033.js)|Mar 23, 2022|✔|
@@ -180,8 +180,10 @@
 |[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)|[코드](Programmers/0043.js)|Mar 24, 2022|✔|
 |[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|[코드](Programmers/0044.js)|Mar 24, 2022|✔|
 |[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|[코드](Programmers/0045.js)|Mar 24, 2022|✔|
-|[신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)|[코드](Programmers/0046.js)|Mar 24, 2022|❌|
+|[신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)|[코드](Programmers/0046.js)|Mar 24, 2022|✔|
 |[비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|[코드](Programmers/0047.js)|Mar 24, 2022|✔|
-|[[카카오 인턴] 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|[코드](Programmers/0048.js)|Mar 24, 2022|❌|
+|[[카카오 인턴] 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|[코드](Programmers/0048.js)|Mar 24, 2022|✔|
 |[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[코드](Programmers/0049.js)|Mar 25, 2022|✔|
 |[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)|[코드](Programmers/0050.js)|Mar 25, 2022|❌|
+|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|[코드](Programmers/0051.js)|Mar 26, 2022|✔|
+|[최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)|[코드](Programmers/0052.js)|Mar 26, 2022|✔|

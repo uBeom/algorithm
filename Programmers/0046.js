@@ -1,29 +1,41 @@
 // 신고 결과 받기
 function solution(id_list, report, k) {
-  const user = Array.from({length: id_list.length}, ()=>0);
-  
-  newReport = Array.from(new Set(report));
-  console.log(newReport)
-  newReport.forEach(e => {
-    const userReport = e.split(' ')[1];
+  const users = [];
+  const mails = Array.from({length : id_list.length}, ()=>0);
 
-    switch (userReport) {
-      case 'muzi':
-        user[0]++;
-        break;
-      case 'frodo':
-        user[1]++;
-        break;
-      case 'apeach':
-        user[2]++;
-        break;
-      case 'neo':
-        user[3]++;
-        break;
-    }
+  for(let i=0, length=id_list.length; i<length; i++) {
+    const map = new Map();
+    users.push(map);
+  }
+
+  report.forEach(e=>{
+    const declaration = e.split(' ');
+    const idNum = id_list.indexOf(declaration[0]);
+    users[idNum].set(declaration[1], 1);
   });
 
-  console.log(user);
+  const tempMap = new Map();
+  users.forEach(userEl => {
+    id_list.forEach(idListEl => {
+      if(userEl.has(idListEl)) {
+        if(tempMap.has(idListEl)) tempMap.set(idListEl, tempMap.get(idListEl)+1);
+        else tempMap.set(idListEl, 1);
+      }
+    });
+  });
+
+  const declarationUser = [];
+  tempMap.forEach((val, key) => {
+    if(val >= k) declarationUser.push(key);
+  });
+
+  users.forEach((userEl, i) => {
+    declarationUser.forEach(declarationEl=>{
+      if(userEl.has(declarationEl)) mails[i]++;
+    });
+  });
+
+  return mails;
 }
 
- console.log(solution(["muzi", "frodo", "apeach", "neo"], ["muzi frodo","apeach frodo","frodo neo","muzi neo","apeach muzi"], 2));
+ console.log(solution(["con", "ryan"], ["ryan con", "ryan con", "ryan con", "ryan con"], 3));
