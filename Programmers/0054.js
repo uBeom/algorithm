@@ -1,23 +1,22 @@
 // 다리를 지나는 트럭
-// 트럭은 다리의 1칸 씩 전진하면 1초이다.
-// 트럭이 다리에 올라가는 순서는 정해진 것이다. 바꿀 수 없다. 이게 가장 헷갈리게 했던 조건입니다.
-
 function solution(bridge_length, weight, truck_weights) {
-  let answer = 0;
-  const startLength = truck_weights.length;
-  const pastBridge = [];
-  const bridge = [];
+  let time = 0;
 
-  while(startLength !== pastBridge) {
-    answer++;
-    const truck = truck_weights.shift();
+  const bridge = Array.from({length: bridge_length }, () => 0);
+  time++;
+  bridge.shift();
+  bridge.push(truck_weights.shift());
 
-    if(truck_weights.length && truck+truck_weights[0] <= weight) {
-      truck.shift();
-    }
+  while(bridge.some(e => e)) {
+    time++;
+    bridge.shift();
+    const currentBridgeWeight = bridge.reduce((acc, cur) => acc + cur);
+
+    if(currentBridgeWeight+truck_weights[0] <= weight) bridge.push(truck_weights.shift())
+    else bridge.push(0);
   }
 
-  return answer;
+  return time;
 }
 
- console.log(solution(100 ,100, [10]));
+ console.log(solution(2, 10, [7,4,5,6]));
