@@ -187,3 +187,7 @@
 |[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)|[코드](Programmers/0050.js)|Mar 25, 2022|❌|
 |[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|[코드](Programmers/0051.js)|Mar 26, 2022|✔|
 |[최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)|[코드](Programmers/0052.js)|Mar 26, 2022|✔|
+|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|[코드](Programmers/0053.js)|Apr 6, 2022|✔|
+|[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)|[코드](Programmers/0054.js)|Apr 7, 2022|✔|
+|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|[코드](Programmers/0055.js)|Apr 8, 2022|✔|
+|[베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)|[코드](Programmers/0056.js)|Apr 9, 2022|✔|
