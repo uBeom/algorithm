@@ -1,8 +1,6 @@
-# 알고리즘 문제 풀이 모음
-
-![Algorithm](https://i.imgur.com/j1pSgB5.png)
-
-### 🤪 [백준](https://solved.ac/)
+# 알고리즘 문제풀이 저장소
+알고리즘 문제풀이 저장소입니다.
+## [백준](https://solved.ac/)
 
 |문제|풀이|날짜|해결|
 |:---:|:---:|:---:|:---:|
@@ -130,9 +128,9 @@
 |[공백 없는 A+B](https://www.acmicpc.net/problem/15873)|[코드](Baekjoon/15873.js)|Feb 2, 2022|✔|
 |[수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532)|[코드](Baekjoon/19532.js)|Mar 3, 2022|❌|
 |[숫자 게임](https://www.acmicpc.net/problem/2303)|[코드](Baekjoon/2303.js)|Mar 3, 2022|✔|
+<br />
 
-### 🤪 [프로그래머스](https://programmers.co.kr/learn/challenges)
-
+## [프로그래머스](https://programmers.co.kr/learn/challenges)
 |문제|풀이|날짜|해결|
 |:---:|:---:|:---:|:---:|
 |[자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)|[코드](Programmers/0001.js)|Mar 12, 2022|✔|
