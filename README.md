@@ -195,4 +195,5 @@
 |          [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)          | [코드](Programmers/0056.js) | Apr 9, 2022  |  ✔   |
 |  [배상 비용 최소화](https://school.programmers.co.kr/learn/courses/13213/lessons/91086)  | [코드](Programmers/0059.js) | Jul 20, 2022 |  ❌  |
 |       [자동완성](https://school.programmers.co.kr/learn/courses/30/lessons/17685)        | [코드](Programmers/0060.js) | Jul 21, 2022 |  ❌  |
-|       [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)       | [코드](Programmers/0061.js) | Jul 21, 2022 |  ✔   |
+|       [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)       | [코드](Programmers/0061.js) | Jul 22, 2022 |  ✔   |
+|       [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)       | [코드](Programmers/0062.js) | Jul 22, 2022 |  ✔   |
