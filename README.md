@@ -193,4 +193,5 @@
 |      [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)      | [코드](Programmers/0054.js) | Apr 7, 2022  |  ✔   |
 |             [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)             | [코드](Programmers/0055.js) | Apr 8, 2022  |  ✔   |
 |          [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)          | [코드](Programmers/0056.js) | Apr 9, 2022  |  ✔   |
-|  [배상 비용 최소화](https://school.programmers.co.kr/learn/courses/13213/lessons/91086)  | [코드](Programmers/0059.js) | Jul 20, 2022 |  ✔   |
+|  [배상 비용 최소화](https://school.programmers.co.kr/learn/courses/13213/lessons/91086)  | [코드](Programmers/0059.js) | Jul 20, 2022 |  ❌  |
+|       [자동완성](https://school.programmers.co.kr/learn/courses/30/lessons/17685)        | [코드](Programmers/0060.js) | Jul 21, 2022 |  ❌  |
