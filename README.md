@@ -197,3 +197,4 @@
 |       [자동완성](https://school.programmers.co.kr/learn/courses/30/lessons/17685)        | [코드](Programmers/0060.js) | Jul 21, 2022 |  ❌  |
 |       [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)       | [코드](Programmers/0061.js) | Jul 22, 2022 |  ✔   |
 |       [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)       | [코드](Programmers/0062.js) | Jul 22, 2022 |  ✔   |
+|      [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)       | [코드](Programmers/0063.js) | Jul 23, 2022 |  ✔   |
